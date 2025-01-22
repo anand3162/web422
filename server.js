@@ -1,3 +1,14 @@
+
+/*********************************************************************************
+* WEB422 – Assignment 1
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy.
+* No part of this assignment has been copied manually or electronically from any other source
+* (including web sites) or distributed to other students.
+*
+* Name: Anand Krishna Anil Kumar Student ID: 152227229 Date: 21st January 2025
+* Vercel Link: https://web422-anands-projects-1ac7f41e.vercel.app/
+*
+********************************************************************************/
 const express = require('express');
 const cors = require('cors');
 require('dotenv').config();
